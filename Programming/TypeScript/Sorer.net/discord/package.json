@@ -1,5 +1,5 @@
 {
-  "name": "sorer-net",
+  "name": "captcha",
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.13.0",
@@ -12,6 +12,6 @@
     "deploy": "wrangler publish"
   },
   "dependencies": {
-    "cloudworker-router": "^2.0.5"
+    "itty-router": "^2.6.1"
   }
 }
