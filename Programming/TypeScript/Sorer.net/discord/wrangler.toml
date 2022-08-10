@@ -1,4 +1,0 @@
-name = "discord"
-main = "src/index.ts"
-compatibility_date = "2022-06-27"
-account_id = "271e3471fa1736eec029cee0006d3029"
